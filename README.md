@@ -1,2 +1,4 @@
-# ublsolutions.com
-ublsolutions.com
+# Primary Hosting Page
+
+## gh-pages
+UBL Solutions Site Link
